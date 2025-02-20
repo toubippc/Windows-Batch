@@ -1,6 +1,6 @@
 ### Windows Batch file : 
-*Enable Hyper-V on Windows 11 Home 
-*Enable gpedit.msc on Windows 11 Home
+* Enable Hyper-V on Windows 11 Home 
+* Enable gpedit.msc on Windows 11 Home
 
 ### God Mode :
 
